@@ -1,0 +1,10 @@
+product:
+- type:
+    code: SA
+    lname: Savings Account
+- type:
+    code: CA
+    lname: current Account
+- type:
+    code: TD
+    lname: Term Deposit
