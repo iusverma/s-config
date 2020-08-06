@@ -1,0 +1,25 @@
+address:
+- City: Melbourne
+  Street:
+    name: Charles St
+    number: 123
+  houseNumber: 1
+  contact:
+  - detail: 04123456789
+    type: mobile
+  - detail: abc@hotmail.com
+    type: email
+  - detail: 01197654786
+    type: home phone
+- City: Perth
+  Street:
+    name: George St
+    number: 321
+  houseNumber: 4
+  contact:
+  - detail: 0216543678
+    type: mobile
+  - detail: xyz@gmail.com
+    type: email
+  - detail: 01197654999
+    type: pager
