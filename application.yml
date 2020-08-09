@@ -11,3 +11,8 @@ person:
     fname: ayusme
     lname: verma
   age: 6
+
+# Added for client to access
+my:
+  name: s-config-server
+  code: server
