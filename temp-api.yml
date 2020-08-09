@@ -1,0 +1,5 @@
+# this is the definition for temp-api .../myname
+# GIT: https://github.com/iusverma/temp-api
+my:
+  name: s-config-server temp-api
+  code: config

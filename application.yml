@@ -13,6 +13,7 @@ person:
   age: 6
 
 # Added for client to access
+# This will be read by temp-api .../myname, if no temp-api.yml is define in s-config
 my:
   name: s-config-server
   code: server
