@@ -1,17 +1,3 @@
-person:
-- name:
-    fname: ayush
-    lname: verma
-  age: 35
-- name:
-    fname: megha
-    lname: verma
-  age: 32
-- name:
-    fname: ayusme
-    lname: verma
-  age: 6
-
 # Added for client to access
 # This will be read by temp-api .../myname, if no temp-api.yml is define in s-config
 my:
